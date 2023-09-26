@@ -5,7 +5,3 @@
 function makeUpperCase(str) {
   return str.toUpperCase();
 }
-
-// Othe solution
-
-const makeUpperCase = (str) => str.toUpperCase();
