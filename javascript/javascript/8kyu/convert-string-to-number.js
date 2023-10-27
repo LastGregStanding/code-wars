@@ -20,6 +20,6 @@ const stringToNumber = function (str) {
 
 // Another solution
 
-var stringToNumber = function (str) {
+var stringToNumber2 = function (str) {
   return Number(str);
 };
